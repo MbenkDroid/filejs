@@ -9,5 +9,5 @@ window.onload = function () {
 	}
 	e.setAttribute("href", "http://cop4sberita.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "Copyright &#169; 2018 <a href='http://cop4sberita.blogspot.com' target='_blank'>COP4S BERITA</a>"
+	e.innerHTML = ""
 }
