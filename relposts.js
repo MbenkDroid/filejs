@@ -5,9 +5,9 @@ var randomRelatedIndex,showRelatedPost;(function(n,m,k){var d={widgetTitle:"<h4>
 window.onload = function () {
 	var e = document.getElementById("tscredit");
 	if (e == null) {
-		window.location.href = "http://cop4sberita.blogspot.com"
+		window.location.href =""
 	}
-	e.setAttribute("href", "http://cop4sberita.blogspot.com/");
+	e.setAttribute("href", "");
 	e.setAttribute("rel", "nofollow");
 	e.innerHTML = ""
 }
