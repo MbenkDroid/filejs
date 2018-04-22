@@ -9,5 +9,5 @@ window.onload = function () {
 	}
 	e.setAttribute("href", "http://cop4sberita.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "Copyright &#169; 2018 <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> All Right Reserved - Created by <a href='http://cop4sberita.blogspot.com' target='_blank'>Evan Reserved</a>"
+	e.innerHTML = "Copyright &#169; 2018 <a href='http://cop4sberita.blogspot.com' target='_blank'>COP4S BERITA</a>"
 }
